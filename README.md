@@ -1,0 +1,2 @@
+# Oktoberpad
+Hackclub Blueprint hackpad
